@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-Regular.ttf');
+}
+
+body {
+    text-align: center;
+    background-image: url('../img/shutterstock_2206943623.jpg');
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+    background-color: #2f2e2f;
+    padding: 5rem 0;
+    font-family: 'Lato';
+}
+
+.card {
+    background: #232323ec;
+    opacity: 0.78;
+    border-radius: 16px;
+    display: inline-block;
+    padding: 3pc;
+    margin: 1rem;
+    position: relative;
+    width: 52%;
+}
+
+.card-1 {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+}
+
+.card-1:hover {
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    opacity: 1;
+}
+
+h1, h3 {
+    font-weight: 200;
+    color: aliceblue;
+}
+
+.button-undercon {
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid #ededed;
+    padding: 10px 30px;
+}
+
+.button-undercon:hover {
+    background: #3253a1;
+    border-color: #3253a1;
+}
+
+img {
+    width: 68%;
+    height: 123px;
+    object-fit: cover;
+}
+@media (max-width: 200px){
+    img {
+        width: 100%;
+        height: 95px;
+        object-fit: cover;
+    }
+}
+@media (max-width: 300px){
+    img {
+        width: 100%;
+        height: 95px;
+        object-fit: cover;
+    }
+}
+@media (max-width: 400px){
+    img {
+        width: 100%;
+        height: 95px;
+        object-fit: cover;
+    }
+}
+
+@media (max-width: 500px){
+    img {
+        width: 100%;
+        height: 95px;
+        object-fit: cover;
+    }
+}
+@media (max-width: 600px){
+    img {
+        width: 100%;
+        height: 95px;
+        object-fit: cover;
+    }
+}
+
+@media (max-width: 700px){
+    img {
+        width: 100%;
+        height: 95px;
+        object-fit: cover;
+    }
+}
+
+@media (max-width: 800px){
+    img {
+        width: 100%;
+        height: 95px;
+        object-fit: cover;
+    }
+}
+
+@media (min-width: 1600px){
+    img {
+        width: 53%;
+        height: 186px;
+        object-fit: cover;
+    }
+}

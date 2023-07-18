@@ -1,0 +1,559 @@
+@media (max-width: 1902px) {
+    .intro .content {
+        padding: 7rem 3rem;
+    }
+
+    .intro1 .content {
+        padding: 7rem 3rem;
+    }
+
+    .special-projects .co-content {
+        padding: 6rem 3rem 10rem;
+    }
+
+
+    .about-section .co-content {
+        padding: 6rem 3rem 10rem;
+    }
+}
+
+@media (max-width: 1400px) {
+    .export-page .intro-section .content {
+        padding: 0 1rem;
+    }
+
+    .intro .content {
+        padding: 7rem 3rem;
+    }
+
+    .intro1 .content {
+        padding: 7rem 3rem;
+    }
+
+    .about-section .co-content {
+        padding: 6rem 3rem 10rem;
+    }
+
+    .special-projects .co-content {
+        padding: 6rem 3rem 10rem;
+    }
+}
+
+@media (max-width: 1399px) {
+    .recent .box .more, .grid .box .more {
+        left: 4em;
+    }
+}
+
+@media (max-width: 1199.5px) {
+    #special_head:before {
+        height: 108px;
+        width: 5px;
+    }
+
+    .export-page h1 {
+        padding-left: 14px;
+    }
+
+    .export-page h1:before {
+        height: 67px;
+    }
+
+    .about-section .co-content img {
+        width: 500px;
+    }
+
+    .recent .box .more, .grid .box .more {
+        left: 3em;
+    }
+
+    .service-section .box {
+        height: 380px;
+    }
+}
+
+@media (max-width: 991.5px) {
+    #special_head:before {
+        height: 69px;
+        width: 5px;
+    }
+
+    .export-page .intro-section2 {
+        height: auto;
+        padding: 7rem 0;
+    }
+
+    .export-page h1 {
+        padding-left: 14px;
+    }
+
+    .export-page h1:before {
+        height: 45px;
+    }
+
+    .export-page .intro-section .co-bg {
+        display: none;
+    }
+
+    .export-page .intro-section1 {
+        background-image: url('../img/export1.jpg');
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+        background-blend-mode: overlay;
+        background-color: #1d1c1d;
+        padding: 7rem 0;
+    }
+
+    .export-page .intro-section2 {
+        text-align: center;
+    }
+
+    .top-header {
+        display: none;
+    }
+
+    .intro .content {
+        background: #2f2e2fad;
+    }
+
+    .intro1 .content {
+        background: #2f2e2fad;
+    }
+
+    .col-bottom {
+        margin-top: 2rem;
+    }
+
+    .recent .box .more, .grid .box .more {
+        left: 5em;
+    }
+
+    .recent .img-left {
+        width: 230px;
+        height: 230px;
+    }
+
+    .service-section .box {
+        height: auto;
+        margin-bottom: 2rem;
+    }
+
+    .about-section {
+        height: auto;
+    }
+
+    .intro {
+        background-image: url('../img/banner2.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+
+    .intro1 {
+        background-image: url('../img/201-8 (2).jpg');
+        background-size: cover;
+        background-position: center;
+    }
+
+    .intro .content {
+        padding: 7rem 2rem;
+    }
+
+    .about-section .co-content {
+        padding: 5rem 2rem;
+    }
+
+    .about-section .co-content img {
+        width: 450px
+    }
+
+    .intro img {
+        position: absolute;
+        bottom: 0;
+        top: auto;
+        right: 0;
+        width: 400px;
+    }
+
+    .row2 {
+        margin-top: 1rem;
+    }
+
+    .row2 .view {
+        text-align: center !important;
+    }
+
+    .row-title {
+        padding: .5rem 0 !important;
+        margin-bottom: 0 !important;
+    }
+
+    .row-desc {
+        margin-bottom: 0 !important;
+
+    }
+
+}
+
+@media (max-width: 767.5px) {
+    .urban-top-section img {
+        width: 53%;
+    }
+    .urban-second-title p, .urban-first-title marquee {
+        font-size: small;
+    }
+    .urban-first-title{
+        padding: 0;
+    }
+    .urban-second-title {
+        padding: 18px 0px;
+    }
+    .urban-first-title marquee{
+        position: relative;
+        top:36px;
+    }
+
+    .urban-first-section .co-content{
+        padding: 111px 1px;
+        font-size: 20px;
+    }
+    .calculator_container {
+        border-right: none;
+    }
+
+    .box-cal .inner {
+        border-top: 2px solid;
+        padding-top: 2rem;
+    }
+
+    .calculator__row .text-end {
+        text-align: left !important;
+        padding-bottom: 0.5rem;
+    }
+
+    .financ-page .pt-5 {
+        padding-top: 2rem !important;
+    }
+
+    .financ-page .mt-5 {
+        margin-top: 2rem !important;
+    }
+
+    #carousel_export .owl-nav {
+        position: absolute;
+        top: 13em;
+    }
+
+    #carousel_export .owl-nav button {
+        padding: 5px 10px !important;
+        background: #3253a19f;
+        margin: 0 4px;
+    }
+
+    #carousel_export .owl-nav button i {
+        font-size: 16px;
+    }
+
+    .export-page .list-serv2 .co-bg {
+        display: none;
+    }
+
+    .export-page .list-serv2 {
+        padding: 3rem 0 !important;
+    }
+
+    .top-header {
+        display: none;
+    }
+
+    .title2 {
+        display: inline !important;
+    }
+
+    .special-projects {
+        background-image: url('../img/lc300_grille_kit_01_web-transformed1.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+
+    .special-projects .co-content {
+        background: #2f2e2fad;
+    }
+
+    .call-link {
+        padding-top: 2rem;
+    }
+
+    .recent .box .more {
+        left: 2.5em;
+    }
+
+    .title::before {
+        height: 35px;
+    }
+
+    .title {
+        font-size: 30px;
+    }
+
+    .intro img {
+        width: 350px;
+    }
+
+    .intro .content {
+        padding: 5rem 2rem 7rem;
+    }
+
+    .about-section .co-content img {
+        bottom: -6em;
+
+    }
+
+    .col-btn {
+
+        margin-top: 1rem;
+    }
+
+}
+
+@media (max-width: 575.5px) {
+    .urban-top-section img {
+        width: 53%;
+    }
+    .urban-second-title p, .urban-first-title marquee {
+        font-size: small;
+    }
+    .urban-first-title{
+        padding: 0;
+    }
+    .urban-second-title {
+        padding: 18px 0px;
+    }
+    .urban-first-title marquee{
+        position: relative;
+        top:36px;
+    }
+    .urban-first-section .co-content{
+        padding: 111px 1px;
+        font-size: 20px;
+    }
+    .financ-page .main {
+        font-size: 20px;
+        position: relative;
+        padding-left: 10px;
+    }
+
+    .financ-page .main::before {
+        top: 2px;
+        height: 23px;
+    }
+
+    #global_head:before, #services_head:before, #special_head:before, #special_projects_head:before {
+        display: none;
+    }
+
+    .export-page h1,
+    .export-page h3 {
+        font-size: 20px;
+    }
+
+    #carousel_export .owl-nav button {
+        padding: 5px 10px !important;
+        background: #3253a19f;
+        margin: 0 4px;
+    }
+
+    #carousel_export .owl-nav {
+        position: absolute;
+        top: 13em;
+    }
+
+    .export-page .intro-section .content {
+        padding: 0;
+    }
+
+    .call-link {
+        display: grid !important;
+        justify-items: start !important;
+    }
+
+    .contact-section a:first-child {
+        padding: 0 0 1rem 0;
+    }
+
+    .about-section .co-content img {
+        width: 360px;
+    }
+
+    .recent .img-left {
+        display: none;
+    }
+
+    .recent {
+        background: #232323;
+    }
+
+    .recent .box .more {
+        left: 12em;
+    }
+
+    .recent .owl-nav .owl-prev {
+        left: -10px;
+    }
+
+    .recent .owl-nav .owl-next {
+        right: -10px;
+    }
+
+    .about-section {
+        text-align: center;
+    }
+
+    .intro .content,
+    .about-section .co-content {
+
+
+        padding: 3rem 1rem 5rem;
+    }
+
+    .intro {
+        text-align: -webkit-center;
+        text-align: -moz-center;
+        background-position: center;
+    }
+
+    .intro img {
+        position: relative;
+        width: 100%;
+        margin-top: 2rem;
+    }
+
+    .carousel-main .flickity-viewport,
+    .carousel-main img {
+        height: 300px !important;
+    }
+
+    .col-price {
+        text-align: start !important;
+    }
+
+    .show .price {
+        background: none;
+        color: #3253a1;
+        padding: 10px 0 0;
+    }
+
+    .show .bg {
+        padding: 2rem 0;
+    }
+
+    .special-projects {
+        background-image: url('../img/lc300_grille_kit_01_web-transformed1.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+@media (max-width: 510px) {
+    .urban-visit-site a {
+        padding: 17px 12px;
+        font-size: 11px;
+    }
+    .urban-top-section img {
+        width: 53%;
+    }
+    .urban-second-title p, .urban-first-title marquee {
+        font-size: medium;
+    }
+    .urban-first-title{
+        padding: 0;
+    }
+    .urban-second-title {
+        padding: 18px 0px;
+    }
+    .urban-first-title marquee{
+        position: relative;
+        top:36px;
+    }
+    .urban-first-title marquee{
+        position: relative;
+        top:36px;
+    }
+    .urban-first-title p{
+
+    }
+    .urban-first-section .co-content{
+        padding: 111px 1px;
+        font-size: 20px;
+    }
+    .special-projects {
+        background-image: url('../img/lc300_grille_kit_01_web-transformed1.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+
+    .intro .content h1,
+    .title, .service-section .box h2 {
+        font-size: 20px;
+    }
+
+    .intro .content h1::before,
+    .title::before {
+        height: 28px;
+        top: 0;
+    }
+
+    .intro .content h6, .contact-section h6 {
+        font-size: 13px;
+        letter-spacing: 0;
+    }
+
+    .title {
+        letter-spacing: 0;
+    }
+}
+
+@media (max-width: 420px) {
+    .urban-top-section img {
+        width: 53%;
+    }
+    .urban-second-title p, .urban-first-title marquee {
+        font-size: small;
+    }
+    .urban-first-section .co-content{
+        padding: 111px 1px;
+        font-size: 20px;
+    }
+    .urban-first-title{
+        padding: 0;
+    }
+    .urban-second-title {
+        padding: 18px 0px;
+    }
+    .urban-first-title marquee{
+        position: relative;
+        top:36px;
+    }
+    .about-section .co-content img {
+        width: 100%;
+        right: 0;
+    }
+
+    .special-projects {
+        background-image: url('../img/lc300_grille_kit_01_web-transformed1.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.5px) {
+    .financ-page .box {
+        padding: 2rem 0.5rem;
+    }
+}
+
+@media (max-width: 575px) {
+    .financ-page .box {
+        padding: 2rem 1rem;
+    }
+}
